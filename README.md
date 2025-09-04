@@ -6,7 +6,7 @@ Two approaches were tested:
 
 2. An Artificial Neural Network (ANN) with two hidden layers. The first hidden layer had 16 neurons with ReLU activation, the second had 8 neurons with ReLU activation, and the output layer had 3 neurons with softmax activation.
 
-The network was trained using the Adam optimizer and categorical cross-entropy loss function.
+-> The network was trained using the Adam optimizer and categorical cross-entropy loss function.
 
 Results ->
 
